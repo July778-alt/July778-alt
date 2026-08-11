@@ -86,24 +86,19 @@
 
 ---
 
-## `SKILL TREE`
+## `SKILL TREE - TECH STACK`
 
-```text
-🐾 FRONTEND        React · Next.js · TypeScript · JavaScript
-🐾 UI / UX          Figma · Tailwind CSS · Responsive Design
-🐾 BACKEND          Node.js · Express.js · PostgreSQL
-🐾 DEVELOPMENT      Git · GitHub · API Integration · Architecture
-```
+<p align="center">
+  <b> FRONTEND & UI/UX</b><br>
+  <img src="https://skillicons.dev/icons?i=react,nextjs,ts,js,figma,tailwind,nuxtjs" />
+</p>
 
-Right now I'm focused on becoming better at building **complete web applications** — not just isolated pages. I want to understand how frontend, backend, database, and architecture all fit together as one story.
+<p align="center">
+  <b> BACKEND & TOOLS</b><br>
+  <img src="https://skillicons.dev/icons?i=nodejs,express,postgres,git,github" />
+</p>
 
-<br/>
-
-<div align="center">
-
-𓆩 🐾 · 🌙 · 🐾 𓆪
-
-</div>
+---
 
 # `MAIN STORY`
 
