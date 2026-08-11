@@ -8,7 +8,9 @@
   </tr>
 </table>
 
-<img src="https://readme-typing-svg.demolab.com/?font=Poppins&size=22&pause=1600&color=F2A6C1&center=true&vCenter=true&width=520&lines=Nya~+welcome+to+my+world...;RPL+Student+%7C+Frontend+Developer;still+learning%2C+still+building." alt="typing intro" />
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com/?font=Poppins&size=22&pause=1600&color=F2A6C1&center=true&vCenter=true&width=520&lines=welcome+to+white+space...;Waiting+for+something+to+happen%3F;Close+your+eyes%2C+you%27ll+be+here+soon...;Everything+is+going+to+be+okay." alt="typing intro" />
+</p>
 
 </div>
 
