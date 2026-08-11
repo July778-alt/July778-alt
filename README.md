@@ -1,25 +1,58 @@
-# Hi, I'm July778-alt!
+                    RADIT
+             Frontend Developer
 
-<!--
-**July778-alt/July778-alt** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+     Building interfaces that are simple,
+              useful, and accessible.
 
-Here are some ideas to get you started:
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+ABOUT ME
 
-### Tech Stack:
+I'm an RPL student interested in frontend
+development, UI design, and web technologies.
 
-![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
-![Next.js](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=nextdotjs&logoColor=white)
-![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
-![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB)
-![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
+Currently learning:
+Next.js · TypeScript · React · Tailwind CSS
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+FEATURED PROJECT
+
+┌─────────────────────────────────────────────┐
+│                                             │
+│  AksesKita                                  │
+│  Public Complaint Reporting System          │
+│                                             │
+│  Next.js · TypeScript · Express · PostgreSQL│
+│                                             │
+│  [ Live Demo ]     [ Repository ]           │
+│                                             │
+└─────────────────────────────────────────────┘
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+TECH STACK
+
+Frontend
+Next.js   TypeScript   React   Tailwind CSS
+
+Backend
+Node.js   Express   PostgreSQL
+
+Tools
+Git   GitHub   Figma   VS Code
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+CURRENTLY LEARNING
+
+→ Advanced React & Next.js
+→ Backend architecture
+→ UI/UX design
+→ Clean code & Git workflow
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+CONTACT
+
+GitHub · LinkedIn · Email
