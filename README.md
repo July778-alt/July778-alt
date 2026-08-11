@@ -1,58 +1,15 @@
-                    RADIT
-             Frontend Developer
+<div align="center">
 
-     Building interfaces that are simple,
-              useful, and accessible.
+<!-- HEADER / STATUS SCREEN -->
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=A855F7&center=true&vcenter=true&width=500&lines=Radit+--+Frontend+Developer;RPL+Student+%7C+Building+Web+Apps;Exploring+UI%2FUX+%26+Modern+Web" alt="Typing Banner" />
+</p>
 
-━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+### ─── ✦ CHARACTER PROFILE ✦ ───
 
-ABOUT ME
-
-I'm an RPL student interested in frontend
-development, UI design, and web technologies.
-
-Currently learning:
-Next.js · TypeScript · React · Tailwind CSS
-
-━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
-
-FEATURED PROJECT
-
-┌─────────────────────────────────────────────┐
-│                                             │
-│  AksesKita                                  │
-│  Public Complaint Reporting System          │
-│                                             │
-│  Next.js · TypeScript · Express · PostgreSQL│
-│                                             │
-│  [ Live Demo ]     [ Repository ]           │
-│                                             │
-└─────────────────────────────────────────────┘
-
-━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
-
-TECH STACK
-
-Frontend
-Next.js   TypeScript   React   Tailwind CSS
-
-Backend
-Node.js   Express   PostgreSQL
-
-Tools
-Git   GitHub   Figma   VS Code
-
-━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
-
-CURRENTLY LEARNING
-
-→ Advanced React & Next.js
-→ Backend architecture
-→ UI/UX design
-→ Clean code & Git workflow
-
-━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
-
-CONTACT
-
-GitHub · LinkedIn · Email
+```text
+===================================================================
+ [ NAME ] Radit                           [ CLASS ] RPL Student / Frontend
+ [ LVL  ] 17 (In Development)            [ ROLE  ] Interface Builder
+ [ STAT ] UI/UX Enthusiast               [ FOCUS ] React & Next.js
+===================================================================
