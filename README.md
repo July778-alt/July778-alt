@@ -1,9 +1,9 @@
 <div align="center">
   
-<table align="center" width="100%">
+<table width="100%">
   <tr>
-    <td>
-  <img src="https://i.pinimg.com/736x/e7/17/09/e717097eef085768f14cc9dce86ed65f.jpg" width="100%" alt="Radit's profile header — banner utama profil"/>
+    <td align="center">
+      <img src="https://i.pinimg.com/1200x/76/f6/93/76f693b4a2f693ec217d24781865f07d.jpg" width="100%" alt="Mewo">
     </td>
   </tr>
 </table>
