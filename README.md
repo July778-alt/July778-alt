@@ -41,7 +41,6 @@
         <tr>
           <td align="center">
             <h2>S T A T U S &nbsp; W I N D O W</h2>
-            <p>───────────────────────────────────────────</p>
           </td>
         </tr>
         <tr>
