@@ -20,43 +20,71 @@
 
 > **Mewo:** *"Waiting for something to happen?"*
 
-<br/>
+---
 
 ## `SAVE FILE — PROFILE`
 
-```text
-┌─ STATUS WINDOW ──────────────────────────────────────────┐
-│                                                            │
-│  NAME        Radit                                        │
-│  CLASS       Frontend Developer                            │
-│  ORIGIN      RPL Student                                   │
-│  FOCUS       Web Development                                │
-│                                                            │
-│  HP          ████████░░   (Motivation)                     │
-│  SP          ███████░░░   (Focus)                          │
-│  STATUS      Learning · Building · Experimenting            │
-│                                                            │
-│  INTERESTS                                                 │
-│  ├── UI / UX Design                                         │
-│  ├── Frontend Development                                   │
-│  ├── Anime & Visual Storytelling                             │
-│  ├── Romance genre                                           │
-│  └── Cozy, story-driven games 🐱                             │
-│                                                            │
-└──────────────────────────────────────────────────────────┘
-```
+<table width="100%">
+  <tr>
+    <!-- KOLOM KIRI: GAMBAR -->
+    <td width="40%" align="center" valign="middle">
+      <kbd>
+        <img src="https://i.pinimg.com/1200x/1d/3a/88/1d3a8838b26dba95ad0a035df48fa588.jpg" width="100%" alt="Status Character">
+      </kbd>
+      <br><br>
+      <sub><i>"Waiting for something to happen?"</i></sub>
+    </td>
+  <td width="60%" valign="top">
+      <table width="100%">
+        <tr>
+          <td align="center">
+            <h2>S T A T U S &nbsp; W I N D O W</h2>
+            <p>───────────────────────────────────────────</p>
+          </td>
+        </tr>
+        <tr>
+          <td>
+            <table align="center" width="95%" border="0">
+              <tr>
+                <td><b>NAME</b></td>
+                <td><b>:</b> Radit</td>
+              </tr>
+              <tr>
+                <td><b>CLASS</b></td>
+                <td><b>:</b> Frontend Developer</td>
+              </tr>
+              <tr>
+                <td><b>FOCUS</b></td>
+                <td><b>:</b> Web Development</td>
+              </tr>
+              <tr><td colspan="2"><hr></td></tr>
+              <tr>
+                <td><b>HP</b></td>
+                <td>
+                  <img src="https://geps.dev/progress/80?dangerColor=ff4d4d&warningColor=ff4d4d&color=ff4d4d" alt="HP" height="16"/> 
+                  <i>(Motivation)</i>
+                </td>
+              </tr>
+              <tr>
+                <td><b>SP</b></td>
+                <td>
+                  <img src="https://geps.dev/progress/70?color=00bfff" alt="SP" height="16"/> 
+                  <i>(Focus)</i>
+                </td>
+              </tr>
+              <tr>
+                <td><b>STATUS</b></td>
+                <td><code>Learning</code> · <code>Building</code> · <code>Experimenting</code></td>
+              </tr>
+            </table>
+          </td>
+        </tr>
+      </table>
+    </td>
+  </tr>
+</table>
 
-I'm an **RPL student and aspiring frontend developer**, wandering through the world of web development, UI design, and building things from scratch.
-
-I like turning ideas into interfaces, and learning how those interfaces work once the curtain's pulled back. Most of what I know didn't come from a textbook — it came from building something, breaking it, and figuring out why.
-
-I'm still learning. But every project should leave me knowing something I didn't know when I started.
-
-<div align="center">
-
-𓆩 🐾 · 🌙 · 🐾 𓆪
-
-</div>
+---
 
 ## `SKILL TREE`
 
