@@ -7,7 +7,7 @@
 
 ### ─── ✦ CHARACTER PROFILE ✦ ───
 
-```text
+
 ===================================================================
  [ NAME ] Radit                           [ CLASS ] RPL Student / Frontend
  [ LVL  ] 17 (In Development)            [ ROLE  ] Interface Builder
