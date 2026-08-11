@@ -1,6 +1,6 @@
 <div align="center">
   
-<table align="center">
+<table align="center" width="100%">
   <tr>
     <td>
   <img src="https://i.pinimg.com/736x/e7/17/09/e717097eef085768f14cc9dce86ed65f.jpg" width="100%" alt="Radit's profile header — banner utama profil"/>
@@ -16,11 +16,9 @@
 
 <div align="center">
 
-𓆩 🐾 · 🌙 · 🐾 𓆪
-
 </div>
 
-> 🐱 **Mewo:** *"Nya~... welcome, traveler. Come in, take a look around — there's still a lot left to build here."*
+> **Mewo:** *"Waiting for something to happen?"*
 
 <br/>
 
