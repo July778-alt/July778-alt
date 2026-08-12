@@ -95,20 +95,35 @@
 ---
 
 ## STATS
+<table width="100%" border="0">
+  <tr>
+    <!-- KARTU 1: GITHUB STATS -->
+    <td width="33%" align="center" valign="middle">
+      <img src="https://github-readme-stats.anuraghazra1.vercel.app/api?username=July778-alt&show_icons=true&theme=dark&hide_border=true&title_color=F2A6C1&icon_color=F2A6C1&text_color=ffffff&bg_color=0d1117" width="100%" alt="GitHub Stats" />
+    </td>
+    <!-- KARTU 2: STREAK STATS -->
+    <td width="33%" align="center" valign="middle">
+      <img src="https://github-readme-streak-stats.herokuapp.com/?user=July778-alt&theme=dark&background=0d1117&border=0d1117&stroke=F2A6C1&ring=F2A6C1&fire=F2A6C1&currStreakNum=ffffff" width="100%" alt="GitHub Streak" />
+    </td>
+    <!-- KARTU 3: TOP LANGUAGES -->
+    <td width="34%" align="center" valign="middle">
+      <img src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=July778-alt&layout=compact&theme=dark&hide_border=true&title_color=F2A6C1&text_color=ffffff&bg_color=0d1117" width="100%" alt="Top Languages" />
+    </td>
+  </tr>
+</table>
+
 <p align="center">
-  <img height="165" src="https://github-readme-stats.anuraghazra1.vercel.app/api?username=July778-alt&show_icons=true&theme=dark&hide_border=true&title_color=F2A6C1&icon_color=F2A6C1&text_color=ffffff&bg_color=0d1117" alt="GitHub Stats" />
-  &nbsp;
-  <img height="165" src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=July778-alt&layout=compact&theme=dark&hide_border=true&title_color=F2A6C1&text_color=ffffff&bg_color=0d1117" alt="Top Languages" />
-  &nbsp;
-    <img height="165" src="https://github-readme-streak-stats.herokuapp.com/?user=July778-alt&theme=dark&background=0d1117&border=0d1117&stroke=F2A6C1&ring=F2A6C1&fire=F2A6C1&currStreakNum=ffffff" alt="GitHub Streak" />
-  &nbsp;
-  <img src="https://github-profile-trophy.vercel.app/?username=July778-alt&theme=onedark&no-frame=true&no-bg=true&margin-w=15" alt="GitHub Trophies" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=July778-alt&theme=react-dark&bg_color=0d1117&color=F2A6C1&line=F2A6C1&point=ffffff&hide_border=true" width="100%" alt="Activity Graph"/>
 </p>
 
 ---
 
 ## INVITE PARTY - CONTACT
 <br>
+
+<p align="center">
+  <i>"You open the mailbox... Why not drop a message inside?"</i>
+</p>
 
 <p align="center">
   <a href="mailto:radityajuliano07@gmail.com" target="_blank">
@@ -125,6 +140,10 @@
 ## THE END...
 
 <br>
+
+<div align="center">
+  <img width="721" height="318" alt="OMOCAT 1" src="https://github.com/user-attachments/assets/1d63508d-544f-46f7-b0b7-a6cf69065c8d" />
+</div>
 
 <p align="center">
   <sub><i>"Everything is going to be okay."</i></sub><br>
