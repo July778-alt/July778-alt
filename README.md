@@ -1,9 +1,9 @@
-<div align="center">
+<div align="center" windth="100%">
   
 <table width="100%">
   <tr>
     <td align="center">
-      <img src="https://media1.tenor.com/m/xoHd-qZCcdQAAAAC/omori-mewo.gif" width="100%" alt="Mewo">
+      <img alt="OMORIPreorderPromo-ezgif com-video-to-gif-converter" src="https://github.com/user-attachments/assets/4391f30d-94c3-47d7-9ed5-ea5982039076" />
     </td>
   </tr>
 </table>
