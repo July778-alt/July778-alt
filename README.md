@@ -3,7 +3,7 @@
 <table width="100%">
   <tr>
     <td align="center">
-      <img src="https://i.pinimg.com/1200x/76/f6/93/76f693b4a2f693ec217d24781865f07d.jpg" width="100%" alt="Mewo">
+      <img src="https://media1.tenor.com/m/xoHd-qZCcdQAAAAC/omori-mewo.gif" width="100%" alt="Mewo">
     </td>
   </tr>
 </table>
