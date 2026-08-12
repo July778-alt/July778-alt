@@ -130,7 +130,7 @@
     <img src="https://img.shields.io/badge/Gmail-0d1117?style=for-the-badge&logo=gmail&logoColor=F2A6C1" alt="Gmail" />
   </a>
   &nbsp;
-  <a href="https://instagram.com/USERNAME_IG_KAMU" target="_blank">
+  <a href="https://instagram.com/raditiyajuliano" target="_blank">
     <img src="https://img.shields.io/badge/Instagram-0d1117?style=for-the-badge&logo=instagram&logoColor=F2A6C1" alt="Instagram" />
   </a>
 </p>
