@@ -99,19 +99,24 @@
   <img height="165" src="https://github-readme-stats.anuraghazra1.vercel.app/api?username=July778-alt&show_icons=true&theme=dark&hide_border=true&title_color=F2A6C1&icon_color=F2A6C1&text_color=ffffff&bg_color=0d1117" alt="GitHub Stats" />
   &nbsp;
   <img height="165" src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=July778-alt&layout=compact&theme=dark&hide_border=true&title_color=F2A6C1&text_color=ffffff&bg_color=0d1117" alt="Top Languages" />
+  &nbsp;
+    <img height="165" src="https://github-readme-streak-stats.herokuapp.com/?user=July778-alt&theme=dark&background=0d1117&border=0d1117&stroke=F2A6C1&ring=F2A6C1&fire=F2A6C1&currStreakNum=ffffff" alt="GitHub Streak" />
+  &nbsp;
+  <img src="https://github-profile-trophy.vercel.app/?username=July778-alt&theme=onedark&no-frame=true&no-bg=true&margin-w=15" alt="GitHub Trophies" />
 </p>
 
 ---
 
 ## INVITE PARTY - CONTACT
 <br>
+
 <p align="center">
-  <a href="mailto:emailkamu@gmail.com" target="_blank">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
+  <a href="mailto:radityajuliano07@gmail.com" target="_blank">
+    <img src="https://img.shields.io/badge/Gmail-0d1117?style=for-the-badge&logo=gmail&logoColor=F2A6C1" alt="Gmail" />
   </a>
   &nbsp;
-  <a href="https://instagram.com/usernamekamu" target="_blank">
-    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
+  <a href="https://instagram.com/USERNAME_IG_KAMU" target="_blank">
+    <img src="https://img.shields.io/badge/Instagram-0d1117?style=for-the-badge&logo=instagram&logoColor=F2A6C1" alt="Instagram" />
   </a>
 </p>
 
