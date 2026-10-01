@@ -56,7 +56,6 @@
                 <td><b>HP</b></td>
                 <td>
                   <img src="https://geps.dev/progress/80?dangerColor=ff4d4d&warningColor=ff4d4d&color=ff4d4d" alt="HP" height="16"/> 
-                  <i>(Motivation)</i>
                 </td>
               </tr>
               <tr>
@@ -68,7 +67,7 @@
               </tr>
               <tr>
                 <td><b>STATUS</b></td>
-                <td><code>Learning</code> · <code>Building</code> · <code>Experimenting</code></td>
+                <td><code>exhausted</code></td>
               </tr>
             </table>
           </td>
