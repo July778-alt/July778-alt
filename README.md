@@ -47,10 +47,6 @@
                 <td><b>CLASS</b></td>
                 <td><b>:</b> Frontend Developer</td>
               </tr>
-              <tr>
-                <td><b>FOCUS</b></td>
-                <td><b>:</b> Web Development</td>
-              </tr>
               <tr><td colspan="2"><hr></td></tr>
               <tr>
                 <td><b>HP</b></td>
@@ -62,7 +58,6 @@
                 <td><b>SP</b></td>
                 <td>
                   <img src="https://geps.dev/progress/70?color=00bfff" alt="SP" height="16"/> 
-                  <i>(Focus)</i>
                 </td>
               </tr>
               <tr>
