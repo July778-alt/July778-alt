@@ -104,11 +104,10 @@
       <img src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=July778-alt&layout=compact&theme=dark&hide_border=true&title_color=F2A6C1&text_color=ffffff&bg_color=0d1117" width="100%" alt="Top Languages" />
     </td>
   </tr>
-</table>
-
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=July778-alt&theme=react-dark&bg_color=0d1117&color=F2A6C1&line=F2A6C1&point=ffffff&hide_border=true" width="100%" alt="Activity Graph"/>
 </p>
+</table>
 
 ---
 
