@@ -84,7 +84,7 @@
 <p align="center">
   <b> FRONTEND & UI/UX</b>
   <br><br>
-  <img src="https://skillicons.dev/icons?i=react,nextjs,ts,js,figma,tailwind,nuxtjs" />
+  <img src="https://skillicons.dev/icons?i=react,nextjs,ts,js,figma,tailwind,nuxtjs,flutter" />
 </p>
 <p align="center">
   <b> BACKEND & TOOLS</b>
